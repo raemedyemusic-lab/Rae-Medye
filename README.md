@@ -56,3 +56,33 @@ For bookings, collaborations, interviews, and business inquiries, please contact
 License
 
 © 2026 Rae Medye. All Rights Reserved.
+rae-medye-website/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── index.html
+├── about.html
+├── music.html
+├── gallery.html
+├── videos.html
+├── contact.html
+├── privacy.html
+├── terms.html
+├── robots.txt
+├── sitemap.xml
+├── favicon.ico
+│
+└── assets/
+    ├── css/
+    │   ├── style.css
+    │   └── responsive.css
+    │
+    ├── js/
+    │   ├── script.js
+    │   └── player.js
+    │
+    ├── images/
+    ├── music/
+    ├── videos/
+    └── screenshots/
